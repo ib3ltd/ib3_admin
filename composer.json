@@ -1,5 +1,5 @@
 {
-    "name": "ib3/ib3_admin_theme",
+    "name": "ib3/ib3_admin",
     "description": "Default backend theme for ib3 installs.",
     "type": "drupal-custom-theme",
     "authors": [
