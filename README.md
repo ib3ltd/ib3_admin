@@ -1,1 +1,2 @@
-# ib3_admin
+# ib3 Admin theme
+Lovely stuff
