@@ -1,0 +1,12 @@
+{
+    "name": "ib3/ib3_theme",
+    "description": "Default frontend theme for ib3 installs.",
+    "type": "drupal-custom-theme",
+    "vendor-dir": ""
+    "authors": [
+        {
+            "name": "ib3",
+            "email": "team@ib3.uk"
+        }
+    ]
+}
