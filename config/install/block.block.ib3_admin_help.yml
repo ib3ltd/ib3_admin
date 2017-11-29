@@ -1,17 +1,19 @@
 langcode: en
 status: false
 dependencies:
+  module:
+    - help
   theme:
     - ib3_admin
-id: ib3_admin_page_title
+id: ib3_admin_help
 theme: ib3_admin
-region: header
-weight: -2
+region: help
+weight: 0
 provider: null
-plugin: page_title_block
+plugin: help_block
 settings:
-  id: page_title_block
-  label: 'Page title'
-  provider: core
+  id: help_block
+  label: Help
+  provider: help
   label_display: '0'
 visibility: {  }
