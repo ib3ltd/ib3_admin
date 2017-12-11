@@ -22,7 +22,7 @@
 }
 
 .paragraphs-dropdown-toggle {
-  background-image: url(/themes/custom/ib3_admin/static/images/icons/FFFFFF/icon-actions.svg);
+  background-image: url(/themes/contrib/ib3_admin/static/images/icons/FFFFFF/icon-actions.svg);
   height: auto;
   line-height: 1.71429em;
   padding: 0.57143em 2.14286em 0.57143em 2.14286em;
@@ -153,27 +153,27 @@ input[type='submit'].paragraphs-icon-button-edit {
 }
 
 .toolbar-bar .toolbar-icon-edit:before {
-  background-image: url(/themes/custom/ib3_admin/static/images/icons/FFFFFF/pencil.svg);
+  background-image: url(/themes/contrib/ib3_admin/static/images/icons/FFFFFF/pencil.svg);
 }
 
 .toolbar .toolbar-icon.toolbar-handle:before {
-  background-image: url(/themes/custom/ib3_admin/static/images/icons/3FBFBB/chevron-disc-down.svg);
+  background-image: url(/themes/contrib/ib3_admin/static/images/icons/3FBFBB/chevron-disc-down.svg);
 }
 
 .toolbar .toolbar-icon.toolbar-handle.open:before {
-  background-image: url(/themes/custom/ib3_admin/static/images/icons/3FBFBB/chevron-disc-up.svg);
+  background-image: url(/themes/contrib/ib3_admin/static/images/icons/3FBFBB/chevron-disc-up.svg);
 }
 
 .toolbar .toolbar-icon-admin-toolbar-tools-help:before {
-  background-image: url(/themes/custom/ib3_admin/static/images/icons/3FBFBB/ib3.svg);
+  background-image: url(/themes/contrib/ib3_admin/static/images/icons/3FBFBB/ib3.svg);
 }
 
 .toolbar .toolbar-menu .toolbar-menu .toolbar-icon.toolbar-handle:before {
-  background-image: url(/themes/custom/ib3_admin/static/images/icons/3FBFBB/twistie-down.svg);
+  background-image: url(/themes/contrib/ib3_admin/static/images/icons/3FBFBB/twistie-down.svg);
 }
 
 .toolbar .toolbar-menu .toolbar-menu .toolbar-icon.toolbar-handle.open:before {
-  background-image: url(/themes/custom/ib3_admin/static/images/icons/3FBFBB/twistie-up.svg);
+  background-image: url(/themes/contrib/ib3_admin/static/images/icons/3FBFBB/twistie-up.svg);
 }
 
 body form input[type='radio']:checked {
