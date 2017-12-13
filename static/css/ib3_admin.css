@@ -47,6 +47,14 @@ input[type='submit'].paragraphs-icon-button-edit {
   border-radius:0;
 }
 
+.field--widget-paragraphs input[type='submit'].field-add-more-submit.button.js-form-submit.form-submit {
+  float: none!important;
+}
+
+.paragraphs-tabs-wrapper {
+  padding: 20px!important;
+}
+
 .paragraphs-dropbutton-wrapper {
   grid-column: 4 / 5;
   -ms-grid-column: 4;
